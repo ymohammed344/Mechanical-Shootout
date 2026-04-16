@@ -3,7 +3,7 @@
 > A first-person shooter where humans fight back against robot invaders — built in Unity as a Code Ninjas Black Belt Capstone Project.
 
 <p align="center">
-  <img src="screenshots/Mechanical-shootout-1.png" alt="Mechanical Shootout Title Screen" width="800"/>
+  <img src="screenshots/Mechanical-shootout-1.png" alt="Mechanical Shootout Title Screen" width="600"/>
 </p>
 
 <p align="center">
@@ -82,41 +82,21 @@ Officially recognized as a **Code Ninjas Black Belt** graduate and featured on t
 
 ## 👤 Developer
 
-**Yousif Suliman**
+**Yousif Mohammed**
 - 10th Grade @ Century High School, Rochester, MN
 - Code Ninjas Black Belt Graduate
 - Skills: C#, Python, JavaScript, Unity, Machine Learning, Generative AI
-- [LinkedIn](https://www.linkedin.com/in/yousif-suliman) <!-- Update with your actual LinkedIn URL -->
-
----
-
-## 📁 Project Structure
-
-```
-mechanical-shootout/
-├── Assets/
-│   ├── Scripts/       # C# game logic
-│   ├── Scenes/        # Game maps/levels
-│   ├── Prefabs/       # Reusable game objects
-│   └── UI/            # Shop, HUD, menus
-├── screenshots/
-│   ├── Mechanical-shootout-1.png
-│   ├── Mechanical-shootout-2.png
-│   ├── Mechanical-shootout-3.png
-│   └── maps-selection.png
-├── ProjectSettings/
-└── README.md
-```
+- [LinkedIn](https://www.linkedin.com/in/yousif-s-mohammed) <!-- Update with your actual LinkedIn URL -->
 
 ---
 
 ## 🚀 Running Locally
 
 1. Clone this repo
-2. Open in **Unity** (recommended version: [add your Unity version here])
+2. Open in **Unity** (recommended version: 2022.3.62f2)
 3. Open the `Assets/Scenes/` folder and load the main scene
 4. Hit **Play** in the Unity Editor
 
 ---
 
-*Made with 💻 + ☕ by Yousif Suliman — Code Ninjas Black Belt, 2024*
+*Made with 💻 + ☕ by Yousif Mohammed — Code Ninjas Black Belt, 2026*
